@@ -1,0 +1,6 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         version="5.0">
+
+    <display-name>Maven Tomcat Demo</display-name>
+
+</web-app>
